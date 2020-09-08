@@ -11,6 +11,7 @@ The service contains:
 - Original TikTok app and HTTP-Sniffer to reverse engineer the api.
 - Captcha solver.
 - App log events.
+- xlog events.
 
 If you want to contact with me: me [ at ] mrklintscher [ dot ] de
 
